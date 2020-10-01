@@ -1,5 +1,5 @@
 html{
-    background-image: url(images/tic.jpg);
+    background-image: url("images/tic.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -43,6 +43,7 @@ html{
     background-color: white;
 }
 .top{
+	font-family: "montserrat";
     text-align: center;
     font-size: 100px;
     color: #FFDC00;
@@ -52,10 +53,12 @@ h1{
     margin: 20px 0;
     font-size: 60px;
     color: aqua;
+    font-family: "montserrat";
 }
 h2{
     margin: 30px;
     text-align: center;
+    font-family: "montserrat";
 }
 button{
     font-size: 22px;
@@ -78,6 +81,7 @@ button:hover{
 }
 
 #playbtn ,#playagain{
+	font-family: "montserrat";
     font-size: 1.5em;
     width: 160px;
     display: block;
@@ -127,6 +131,7 @@ button:hover{
     }
   }
 .h3{
+	font-family: "montserrat";
     text-align: center;
     font-size: 80px ;
     margin: 50px 0 60px 0;
@@ -136,6 +141,7 @@ button:hover{
     margin-left: 140px;
 }
 .name{
+	font-family: "montserrat";
     font-size: 60px;
     color: gold;
     text-align: center;
