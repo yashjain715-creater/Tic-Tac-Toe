@@ -1,5 +1,9 @@
 html{
-    background-image: url("images/76161576-tic-tac-toe-on-wooden-background.jpg");
+
+    background-image: url("images/image1.jpg");
+
+
+
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -38,15 +42,25 @@ html{
 .square{
     display: inline-block;
     margin: 0px;
+
     width: 143.85px;
     height: 143.85px;
+
+
+
+
+
+
+
+
+
     background-color: white;
 }
 .top{
 	font-family: "montserrat";
     text-align: center;
     font-size: 100px;
-    color: #FFDC00;
+    color: #12e60a;
 }
 h1{
     text-align: center;
