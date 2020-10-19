@@ -38,8 +38,8 @@ html{
 .square{
     display: inline-block;
     margin: 0px;
-    width: 144.5px;
-    height: 144.5px;
+    width: 143.85px;
+    height: 143.85px;
     background-color: white;
 }
 .top{
@@ -74,9 +74,6 @@ button{
     transition: all 150ms ease-in-out;
     transition: all 150ms ease-in-out;
     cursor: pointer;
-}
-.btn{
-    display:block;
 }
 button:hover{
     color:green;
@@ -150,9 +147,4 @@ button:hover{
     text-align: center;
     margin: 60px 0;
 }
-#compbtn{
-    display:block;
-}
-#friendbtn{
-    display:block;
-}
+
