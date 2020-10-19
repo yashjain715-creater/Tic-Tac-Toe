@@ -1,5 +1,9 @@
 html{
+
     background-image: url("images/image1.jpg");
+
+
+
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -38,8 +42,13 @@ html{
 .square{
     display: inline-block;
     margin: 0px;
+
     width: 143.85px;
     height: 143.85px;
+
+
+
+
     background-color: white;
 }
 .top{
