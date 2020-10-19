@@ -1,5 +1,5 @@
 html{
-    background-image: url("images/tic.jpg");
+    background-image: url("images/76161576-tic-tac-toe-on-wooden-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -38,8 +38,8 @@ html{
 .square{
     display: inline-block;
     margin: 0px;
-    width: 146.5px;
-    height: 146.5px;
+    width: 144.5px;
+    height: 144.5px;
     background-color: white;
 }
 .top{
